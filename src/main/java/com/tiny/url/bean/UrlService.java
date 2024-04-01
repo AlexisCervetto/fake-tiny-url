@@ -57,8 +57,8 @@ public class UrlService {
     return ResponseEntity.status(HttpStatus.FOUND).headers(headers).build();
   }
 
-  public ResponseEntity<?> getLongUrl(String id) {
-    var optUrlEntity = urlRepo.findById(id);
+  public ResponseEntity<?> getLongUrl(String urlKey) {
+    var optUrlEntity = urlRepo.findById(urlKey);
 
     if (!optUrlEntity.isPresent()) {
       return ResponseEntity.status(HttpStatus.BAD_REQUEST).body("Short url id not exists.");

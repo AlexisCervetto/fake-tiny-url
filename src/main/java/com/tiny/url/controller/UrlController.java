@@ -29,8 +29,8 @@ public class UrlController {
   }
 
   @GetMapping("/long")
-  public ResponseEntity<?> getLongUrl(@PathParam(value = "id") @NotBlank String id) {
-    return urlService.getLongUrl(id);
+  public ResponseEntity<?> getLongUrl(@PathParam(value = "urlKey") @NotBlank String urlKey) {
+    return urlService.getLongUrl(urlKey);
   }
 
   @GetMapping("/short")

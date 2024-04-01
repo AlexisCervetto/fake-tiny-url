@@ -1,0 +1,13 @@
+/Users/alexiscervetto/Documents/fake-tiny-url/src/main/java/com/tiny/url/entity/StatisticEntity.java
+/Users/alexiscervetto/Documents/fake-tiny-url/src/main/java/com/tiny/url/controller/UrlController.java
+/Users/alexiscervetto/Documents/fake-tiny-url/src/main/java/com/tiny/url/bean/UrlService.java
+/Users/alexiscervetto/Documents/fake-tiny-url/src/main/java/com/tiny/url/UrlApplication.java
+/Users/alexiscervetto/Documents/fake-tiny-url/src/main/java/com/tiny/url/repository/StatisticRepository.java
+/Users/alexiscervetto/Documents/fake-tiny-url/src/main/java/com/tiny/url/repository/StatisticsRepository.java
+/Users/alexiscervetto/Documents/fake-tiny-url/src/main/java/com/tiny/url/config/RedisConfig.java
+/Users/alexiscervetto/Documents/fake-tiny-url/src/main/java/com/tiny/url/dto/UrlDataDto.java
+/Users/alexiscervetto/Documents/fake-tiny-url/src/main/java/com/tiny/url/entity/UrlEntity.java
+/Users/alexiscervetto/Documents/fake-tiny-url/src/main/java/com/tiny/url/bean/StatisticService.java
+/Users/alexiscervetto/Documents/fake-tiny-url/src/main/java/com/tiny/url/dto/UrlRequestDto.java
+/Users/alexiscervetto/Documents/fake-tiny-url/src/main/java/com/tiny/url/repository/UrlRepository.java
+/Users/alexiscervetto/Documents/fake-tiny-url/src/main/java/com/tiny/url/controller/StatisticController.java
